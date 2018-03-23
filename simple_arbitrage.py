@@ -5,7 +5,7 @@ Created on Tue Mar 20 23:31:44 2018
 
 @author: hsnsd
 
-A simple program to give you arbitrage opportunity of any input coin using cryptonator's api
+A simple program to give you arbitrage opportunity of any input coin using cryptonator's api.
 """
 import pandas as pd
 import requests
